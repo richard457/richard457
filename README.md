@@ -1,6 +1,5 @@
-[//]: # ([![MasterHead]&#40;https://i.gifer.com/8oXf.gif&#41;]&#40;https://richard457.io&#41;)
 <h1 align="center">Hi 👋, I'm Richard Murag</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from Africa,Kigali</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard457&label=Profile%20views&color=0e75b6&style=flat" alt="richard457" /> </p>
